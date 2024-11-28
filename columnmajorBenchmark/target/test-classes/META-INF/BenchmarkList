@@ -1,0 +1,1 @@
+JMH S 25 example.BlockingBenchmark S 62 example.jmh_generated.BlockingBenchmark_multiplication_jmhTest S 14 multiplication S 11 AverageTime E A 1 1 1 E I 1 3 E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
